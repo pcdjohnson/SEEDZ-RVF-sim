@@ -6,6 +6,9 @@ This repository will be used for storing outputs and (eventually) code from simu
 A recording of the presentation I gave at the 2020 World One Health Congress:
 https://youtu.be/2bTX5bKriUA
 
+The presentation slides in PDF format (no animations - the PPT version with the animations is too large for github):
+https://github.com/pcdjohnson/SEEDZ-RVF-sim/blob/main/Johnson_SEEDZ_RVFsim_talk_WOHC_1Nov2020.pdf
+
 The movement modelling and simulation methods are outlined in this poster presented at the 5th International One Health Congress, Saskatoon, 2018:
 https://github.com/pcdjohnson/SEEDZ-RVF-sim/blob/main/Johnson_SEEDZ_NetSim_Poster_IOHC2018.pdf
 
